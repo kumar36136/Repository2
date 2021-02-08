@@ -1,1 +1,2 @@
 Hello, welcome to Git
+Line 2 added
